@@ -18,6 +18,7 @@ Features
   5.	Benchmark Comparison
 
 Repository Contents
+
 NIFTY 100 Multi-Year Analysis.pbix → Power BI dashboard file.
 
 https://www.nseindia.com/reports-indices-historical-index-data → Data Source.
