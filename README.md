@@ -1,13 +1,16 @@
 # NIFTY-100-Analysis
 Comprehensive Visual insights into Nifty 100 stock market analysis powered by Power BI
 
-Overview
+Overview - 
+
 This repository showcases an interactive Power BI dashboard that provides comprehensive visual insights into the Nifty 100 index, one of India’s key stock market benchmarks.
 
 Objectives
+
 Provide interactive dashboards for better decision-making and Simplify complex financial data into clear visualizations.
 
 Features
+
   1.  Index Performance Overview
   2.	Volatility & Risk Metrics
   3.	Return Analysis
